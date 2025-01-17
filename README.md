@@ -19,6 +19,10 @@
 ![ex04_grafico_1](https://github.com/user-attachments/assets/d8b6bb80-c7e7-494c-a0ee-22d460cd3edf)
 ![ex04_grafico_2](https://github.com/user-attachments/assets/e9da9972-590d-4cba-b6c9-e8bd75a1ab83)
 
+## Exercício 5
+![ex05](https://github.com/user-attachments/assets/ed4a1cb8-0bf7-4b05-bd97-9b4a569d2559)
+![ex05_grafico](https://github.com/user-attachments/assets/26468acd-b0c9-417d-a8d4-4234f77d0588)
+
 
 
 
