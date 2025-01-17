@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 
 '''
 
+# Exercicio 02 #
+
 Qual o percentual médio de obesidade por sexo no mundo no ano de 2015?
 
 '''
@@ -18,8 +20,6 @@ df_obesity.loc[df_obesity['Obesity'] == 'No', 'Obesity'] = np.nan
 df_obesity.dropna(inplace=True)
 df_obesity['Obesity'] = df_obesity['Obesity'].apply(lambda x: float(x))
 df_obesity['Year'] = df_obesity['Year'].apply(lambda x: int(x))
-
-# Exercicio 02
 
 # Variáveis
 medias_obesity = []
