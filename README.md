@@ -2,8 +2,23 @@
 
 ### Este projeto tem como objetivo a análise de dados sobre a obesidade no mundo. Trabalhando com Pandas, Matplotlib e Numpy.
 
-![ex03](https://github.com/user-attachments/assets/8630a955-ddd2-44b2-b14c-5bd5a2e66f22)
+## Exercício 1
+![ex01](https://github.com/user-attachments/assets/1815e892-e50a-4772-8d62-55f348fc23df)
 
-![ex03_grafico_1](https://github.com/user-attachments/assets/5337d518-c4bf-4532-8655-93ff702b63bd)
+## Exercício 2
+![ex02](https://github.com/user-attachments/assets/df289506-1799-485a-9241-69f5403272f6)
+![ex02_grafico](https://github.com/user-attachments/assets/8ec08854-fa58-46a6-bf62-837b04c18826)
 
-![ex03_grafico_2](https://github.com/user-attachments/assets/7e56fffe-e46f-4e7d-ab70-1cdf8d77157e)
+## Exercício 3
+![ex03](https://github.com/user-attachments/assets/a6d41cb5-c48e-411e-8f0f-c547d047b687)
+![ex03_grafico_1](https://github.com/user-attachments/assets/24f41346-fa14-47a0-86aa-cfdd8dc3df2e)
+![ex03_grafico_2](https://github.com/user-attachments/assets/e464f7d1-3700-404f-8b0f-176f8c2ee287)
+
+## Exercício 4
+![ex04](https://github.com/user-attachments/assets/844faecd-8884-4a54-af15-d537d0769493)
+![ex04_grafico_1](https://github.com/user-attachments/assets/d8b6bb80-c7e7-494c-a0ee-22d460cd3edf)
+![ex04_grafico_2](https://github.com/user-attachments/assets/e9da9972-590d-4cba-b6c9-e8bd75a1ab83)
+
+
+
+
