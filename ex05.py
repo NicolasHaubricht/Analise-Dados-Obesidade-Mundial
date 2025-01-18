@@ -2,6 +2,14 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+'''
+
+# Exercicio 05 #
+
+Qual a diferença média percentual de obesidade entre sexos ao longo dos anos para o Brasil?
+
+'''
+
 # Acessar arquivo
 df_obesity = pd.read_csv('obesity_data.csv')
 
