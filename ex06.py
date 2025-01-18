@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 '''
 
-# Exercicio 06 #
+# Exercicio 06 #    
 
 Você conseguiria plotar um gráfico mostrando a evolução da obesidade para ambos sexos no mundo?
 
