@@ -1,6 +1,6 @@
 # Projeto Análise de Dados | Obesidade Mundial
 
-### Este projeto tem como objetivo a análise de dados sobre a obesidade no mundo. Este projeto tem como objetivo a análise de dados sobre a obesidade no mundo. Com base nesses dados, o projeto fornece informações sobre o aumento da obesidade em diferentes países e regiões do mundo ao longo dos anos. Trabalhando com Pandas, Matplotlib e Numpy.
+Este projeto tem como objetivo a análise de dados sobre a obesidade no mundo. Este projeto tem como objetivo a análise de dados sobre a obesidade no mundo. Com base nesses dados, o projeto fornece informações sobre o aumento da obesidade em diferentes países e regiões do mundo ao longo dos anos. Trabalhando com Pandas, Matplotlib e Numpy.
 
 ## Exercício 1
 ![ex01](https://github.com/user-attachments/assets/1815e892-e50a-4772-8d62-55f348fc23df)
